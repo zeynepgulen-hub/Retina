@@ -81,6 +81,8 @@ detaylı olarak sunulmuştur.
 
  ### Linkler
  -https://www.kaggle.com/datasets/obulisainaren/retinal-oct-c8
+
+ 
  -https://www.kaggle.com/code/zeynepgulen/retina
 
 
